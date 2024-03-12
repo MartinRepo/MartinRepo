@@ -6,8 +6,7 @@
 - 😄 Pronouns: A heart on the run, keeps a hand on a gun.
 - 🔭 Institute：🇨🇳 [Xi'an jiatong-liverpool University](https://www.xjtlu.edu.cn/en) & 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [University of Liverpool](https://www.liverpool.ac.uk/)
 - 🌱 Lecture note：<a href="https://blog.csdn.net/m0_60941819?type=sub&spm=1000.2115.3001.5348" target="_blank">CSDN 高纯度Coder</a> or <a href="https://martinspace.top">my personal website</a>
-- 🤔 有问题欢迎知乎<a href="https://www.zhihu.com/people/theend-14" target="_blank">@菠萝学长</a>
-- ⚡ Fun fact: 我也逐渐明白了，好的并不是星座，而是我这个男孩儿。
+- ⚡ Fun fact: ```Don't be a programmer, be a problem solver.```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&theme=radical)
 
