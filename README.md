@@ -4,8 +4,10 @@
 - 💻 website: https://martinspace.top
 - 📫 How to reach me: martinchi7788@gmail.com
 - 😄 Pronouns: A heart on the run, keeps a hand on a gun.
-- 🔭 Institute：🇨🇳 [Xi'an jiatong-liverpool University](https://www.xjtlu.edu.cn/en) & 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [University of Liverpool](https://www.liverpool.ac.uk/)
-- 🌱 Lecture note：<a href="https://blog.csdn.net/m0_60941819?type=sub&spm=1000.2115.3001.5348" target="_blank">CSDN 高纯度Coder</a> or <a href="https://martinspace.top">my personal website</a>
+- 🔭 Institute：
+  - Computer Science Bachelor at 🇨🇳 [Xi'an jiatong-liverpool University](https://www.xjtlu.edu.cn/en) & 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [University of Liverpool](https://www.liverpool.ac.uk/)
+  - Computer Science Master at 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [University of Edinburgh](https://www.ed.ac.uk/)
+- 🌱 Lecture note：<a href="https://martinspace.top">My personal website</a> or <a href="https://blog.csdn.net/m0_60941819?type=sub&spm=1000.2115.3001.5348" target="_blank">CSDN</a>
 - ⚡ Fun fact: ```Don't be a programmer, be a problem solver.```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&theme=radical)
@@ -24,6 +26,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/go/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
