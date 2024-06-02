@@ -5,8 +5,8 @@
 - 📫 How to reach me: martinchi7788@gmail.com
 - 😄 Pronouns: A heart on the run, keeps a hand on a gun.
 - 🔭 Institute：
-  - Computer Science Bachelor at 🇨🇳 [Xi'an jiatong-liverpool University](https://www.xjtlu.edu.cn/en) & 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [University of Liverpool](https://www.liverpool.ac.uk/)
-  - Computer Science Master at 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [University of Edinburgh](https://www.ed.ac.uk/)
+  - Computer Science Bachelor from 🇨🇳 [Xi'an jiatong-liverpool University](https://www.xjtlu.edu.cn/en) & 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [University of Liverpool](https://www.liverpool.ac.uk/)
+  - Artificial Intelligence Master from 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [University of Edinburgh](https://www.ed.ac.uk/)
 - 🌱 Lecture note：<a href="https://martinspace.top">My personal website</a> or <a href="https://blog.csdn.net/m0_60941819?type=sub&spm=1000.2115.3001.5348" target="_blank">CSDN</a>
 - ⚡ Fun fact: ```Don't be a programmer, be a problem solver.```
 
