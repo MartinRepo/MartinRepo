@@ -1,6 +1,3 @@
-### Hey, this is Martin👋 
-
-
 - 💻 website: https://martinspace.top
 - 📫 How to reach me: martinchi7788@gmail.com
 - 😄 Pronouns: A heart on the run, keeps a hand on a gun.
@@ -9,6 +6,8 @@
   - Artificial Intelligence Master from 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [University of Edinburgh](https://www.ed.ac.uk/)
 - 🌱 Lecture note：<a href="https://martinspace.top">My personal website</a> or <a href="https://blog.csdn.net/m0_60941819?type=sub&spm=1000.2115.3001.5348" target="_blank">CSDN</a>
 - ⚡ Fun fact: ```Don't be a programmer, be a problem solver.```
+
+![Metrics](https://github.com/MartinRepo/MartinRepo/blob/main/github-metrics.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&theme=radical)
 
