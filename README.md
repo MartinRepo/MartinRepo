@@ -1,5 +1,5 @@
-- 💻 website: https://martinspace.top
-- 📫 How to reach me: martinchi7788@gmail.com
+- 💻 website: https://martinspace.top | https://openchi.life
+- 📫 How to reach me: chi.xing2025@gmail.com
 - 😄 Pronouns: A heart on the run, keeps a hand on a gun.
 - 🔭 Institute：
   - Computer Science Bachelor from 🇨🇳 [Xi'an jiatong-liverpool University](https://www.xjtlu.edu.cn/en) & 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [University of Liverpool](https://www.liverpool.ac.uk/)
