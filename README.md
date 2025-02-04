@@ -1,19 +1,17 @@
-- 💻 website: https://martinspace.top | https://openchi.life
+- 💻 website: [openchi.life](https://openchi.life) | [martinspace.top](https://martinspace.top)
 - 📫 How to reach me: chi.xing2025@gmail.com
 - 😄 Pronouns: A heart on the run, keeps a hand on a gun.
-- 🔭 Institute：
+- 🔭 Institutes:
   - Computer Science Bachelor from 🇨🇳 [Xi'an jiatong-liverpool University](https://www.xjtlu.edu.cn/en) & 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [University of Liverpool](https://www.liverpool.ac.uk/)
   - Artificial Intelligence Master from 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [University of Edinburgh](https://www.ed.ac.uk/)
-- 🌱 Lecture note：<a href="https://martinspace.top">My personal website</a> or <a href="https://blog.csdn.net/m0_60941819?type=sub&spm=1000.2115.3001.5348" target="_blank">CSDN</a>
-- ⚡ Fun fact: ```Don't be a programmer, be a problem solver.```
+- 🌱 Lecture note: <a href="https://martinspace.top">My personal website</a> or <a href="https://blog.csdn.net/m0_60941819?type=sub&spm=1000.2115.3001.5348" target="_blank">CSDN</a>
+- ⚡ Fun fact: `Don't be a programmer, be a problem solver.`
 
-![Metrics](https://github.com/MartinRepo/MartinRepo/blob/main/github-metrics.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&hide=contribs&theme=graywhite)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MartinRepo&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MartinRepo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3 align="center"> My Contribution Here 👇 </h3>
+<h3 align="center"> My Contribution 👇 </h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinRepo/MartinRepo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartinRepo/MartinRepo/output/github-contribution-grid-snake.svg">
