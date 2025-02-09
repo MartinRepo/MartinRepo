@@ -1,4 +1,4 @@
-- 💻 personal pages: [openchi.life](https://openchi.life) | [martinspace.top](https://martinspace.top)
+- 📑 personal pages: [openchi.life](https://openchi.life) | [martinspace.top](https://martinspace.top)
 - 📫 how to reach me: chi.xing2025@gmail.com
 - 😄 pronouns: A heart on the run, keeps a hand on a gun.
 - 🌱 lecture notes: <a href="https://martinspace.top">My personal page</a> or <a href="https://blog.csdn.net/m0_60941819?type=sub&spm=1000.2115.3001.5348" target="_blank">CSDN</a>
@@ -6,12 +6,12 @@
 
 <table cellspacing="0" cellpadding="0" align="left">
   <tr align="center" valign="middle">
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&hide=contribs&theme=graywhite"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRepo&langs_count=8&hide=html,css,scss&layout=compact&theme=graywhite"></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&hide=contribs&theme=graywhite"></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRepo&langs_count=8&hide=html,css,scss&layout=compact&theme=graywhite"></td>
   </tr>
   <tr align="center">
     <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=MartinRepo&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Experience,Issues">
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=MartinRepo&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Experience,Issues">
     </td>
   </tr>
 </table>
