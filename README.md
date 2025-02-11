@@ -7,7 +7,7 @@
 <table cellspacing="0" cellpadding="0" align="left">
   <tr align="center" valign="middle">
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&hide=contribs&theme=graywhite"></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRepo&langs_count=8&hide=html,css,scss&layout=compact&theme=graywhite"></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRepo&langs_count=8&hide=html,css,scss,vue&layout=compact&theme=graywhite"></td>
   </tr>
   <tr align="center">
     <td colspan="2">
