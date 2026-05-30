@@ -2,18 +2,14 @@ Hi, This is **Chi** 👋.
 
 **Distributed ML Scheduling | Preference Alignment   |  Reinforcement Learning**
 
-Welcome to my [**personal page**](https://openchi.life) and [**blog page**](https://martinspace.top).
-
-You can reach me at: **chi.xing2002@outlook.com**
-
 <table cellspacing="0" cellpadding="0" align="left">
   <tr align="center" valign="middle">
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&hide=contribs&theme=graywhite"></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRepo&langs_count=8&hide=html,css,scss,vue&layout=compact&theme=graywhite"></td>
+    <td><img align="center" src="https://github-readme-stats-three-lyart-66.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&hide=contribs&theme=graywhite"></td>
+    <td><img align="center" src="https://github-readme-stats-three-lyart-66.vercel.app/api/top-langs/?username=MartinRepo&langs_count=8&hide=html,css,scss,vue&layout=compact&theme=graywhite"></td>
   </tr>
   <tr align="center">
     <td colspan="2">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=MartinRepo&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Experience,Issues">
+      <img align="center" src="https://github-profile-trophy-bice-six.vercel.app/?username=MartinRepo&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Experience,Issues">
     </td>
   </tr>
   <tr align="center">
