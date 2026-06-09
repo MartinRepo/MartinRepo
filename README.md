@@ -9,7 +9,7 @@ Hi, This is **Chi** 👋.
   </tr>
   <tr align="center">
     <td colspan="2">
-      <img align="center" src="https://github-profile-trophy-bice-six.vercel.app/?username=MartinRepo&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Experience,Issues">
+      <img align="center" src="https://github-profile-trophy-fork-two.vercel.app/?username=MartinRepo&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Experience,Issues">
     </td>
   </tr>
   <tr align="center">
